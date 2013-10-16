@@ -15,8 +15,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="action_summary_entries">
-        <item>nevykoná nič</item>
-        <item>odloží budík</item>
-        <item>zruší budík</item>
+        <item>ھېچقانداق قىلما</item>
+        <item>قوڭغۇراقنى كېچىكتۈر</item>
+        <item>قوڭغۇراقنى تاقا</item>
     </string-array>
 </resources>
