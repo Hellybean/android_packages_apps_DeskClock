@@ -92,7 +92,7 @@
         <item name="android:maxLines">1</item>
         <item name="android:scrollHorizontally">true</item>
         <item name="android:textSize">22sp</item>
-        <item name="android:textColor">@android:color/holo_blue_light</item>
+        <item name="android:textColor">@android:color/holo_red_light</item>
     </style>
 
     <!-- NOTE: This must be a fullscreen theme, or else the fullscreen alarm will

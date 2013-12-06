@@ -19,7 +19,7 @@
   android:exitFadeDuration="@android:integer/config_shortAnimTime">
 
   <item
-    android:drawable="@android:color/holo_blue_dark"
+    android:drawable="@android:color/holo_red_dark"
     android:state_pressed="true"/>
   <item
     android:drawable="@android:color/transparent"/>
